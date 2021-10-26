@@ -1,3 +1,5 @@
+/*sample code*/
+
 #include<stdio.h>
 void main()
 {
