@@ -1,3 +1,4 @@
+/*sample LCM code */
 #include<stdio.h>
 void main()
 {
